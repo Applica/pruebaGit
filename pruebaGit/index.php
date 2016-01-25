@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
             echo "mensaje de Alexis Railen ";
             echo "mensaje 2 de Alexis Railen  ";
+            echo "mensaje de 1 de Rodrigo Nuñez"
         ?>
     </body>
 </html>
